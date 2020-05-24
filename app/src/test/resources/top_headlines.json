@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "id",
+        "name": "name"
+      },
+      "author": "author",
+      "title": "title",
+      "description": "description",
+      "url": "url",
+      "urlToImage": "urlToImage",
+      "publishedAt": "publishedAt",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtv.com"
+      },
+      "author": null,
+      "title": "Lockdown May Not End On May 31, Need Time For Flights: Uddhav Thackeray - NDTV",
+      "description": "Maharashtra needsmore time to prepare for resuming flights,Chief Minister Uddhav Thackeraysaid today, adding that he spoke withAviation Minister Hardeep Singh Puri.",
+      "url": "https://www.ndtv.com/india-news/uddhav-thackeray-says-spoke-with-aviation-minister-we-need-more-time-to-prepare-for-resuming-flights-2234285",
+      "urlToImage": "https://c.ndtvimg.com/2020-05/uv86jdj8_uddhav-thackeray-presser-_625x300_24_May_20.jpg",
+      "publishedAt": "2020-05-24T10:04:35Z",
+      "content": "Maharashtra Chief Minister Uddhav Thackeray addressed a press conference this afternoon.\r\nMumbai/ New Delhi: Maharashtra today said it is anticipating more coronavirus cases and needs \"time to prepar… [+1728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustantimes.com"
+      },
+      "author": "Press Trust of India",
+      "title": "Only an interim measure: ICC cricket committee chairman Anil Kumble on saliva ban - Hindustan Times",
+      "description": "The Kumble-led panel recommended a ban on saliva to minimise the risk of infection. On Friday, the ICC, in its guidelines for resumption of the game, also suggested a bar on the practice.”",
+      "url": "https://www.hindustantimes.com/cricket/only-an-interim-measure-icc-cricket-committee-chairman-anil-kumble-on-saliva-ban/story-lpYv3tQzqkUKOSPoyjRelL.html",
+      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/05/24/Pictures/chairman-headquarters-emirates-emirates-emirates-francois-committee_c3cabf54-9d97-11ea-a010-c71373fc244b.jpg",
+      "publishedAt": "2020-05-24T09:31:00Z",
+      "content": "ICC cricket committee chairman Anil Kumble says the recommendation to ban saliva for shining the ball is only an interim measure and “things will go back to normal” once the COVID-19 pandemic is brou… [+1878 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "Indian Railways to operate 2,600 Shramik special trains in the next 10 days - Times of India",
+      "description": "The Indian Railways has geared up to operate 2,600 Shramik special trains to ferry approximately thirty-six-lakh migrant workers back to their home states in a span of ten days. More special mail/express trains are likely to be introduced, particularly on the…",
+      "url": "https://timesofindia.indiatimes.com/videos/news/indian-railways-to-operate-2600-shramik-special-trains-in-the-next-10-days/videoshow/75939542.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-75939542,imgsize-1186805.cms",
+      "publishedAt": "2020-05-24T08:46:12Z",
+      "content": "May 24, 2020, 02:07PM ISTSource: TOI.inThe Indian Railways has geared up to operate 2,600 Shramik special trains to ferry approximately thirty-six-lakh migrant workers back to their home states in a … [+248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtv.com"
+      },
+      "author": null,
+      "title": "\"Brink Of New Cold War\": China On US Ties Amid Virus, Hong Kong Tensions - NDTV",
+      "description": "The United States is pushing relations with China to \"the brink of a new Cold War\", the Chinese foreign minister said on Sunday, with tensions soaring over coronavirus, Hong Kong's status and other issues.",
+      "url": "https://www.ndtv.com/world-news/us-pushing-relations-to-brink-of-new-cold-war-says-china-as-tensions-rise-over-coronavirus-hong-kongs-status-2234253",
+      "urlToImage": "https://c.ndtvimg.com/2020-03/kp2bsmcc_xi-jinping-and-donald-trump-afp_625x300_27_March_20.jpg",
+      "publishedAt": "2020-05-24T08:45:56Z",
+      "content": "Chinese foreign minister hit back at US, accusing it of seeking to repeatedly \"attack and smear\" China.\r\nBeijing, China: The United States is pushing relations with China to \"the brink of a new Cold … [+1582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "Amitabh Sinha",
+      "title": "India coronavirus numbers explained: Slowdown in some trouble spots - The Indian Express",
+      "description": "India Coronavirus (Covid-19) cases numbers: Gujarat, Rajasthan and Madhya Pradesh have more than 6,000 confirmed cases each and are still contributing a significant number of new cases, but there is a noticeable decline in their growth rates for the last coup…",
+      "url": "https://indianexpress.com/article/explained/india-coronavirus-cases-slowdown-lockdown-6424887/",
+      "urlToImage": "https://images.indianexpress.com/2020/05/Migrants-Gajendra-Yadav-Ghazaiabad.jpg?w=759",
+      "publishedAt": "2020-05-24T08:32:27Z",
+      "content": "Written by Amitabh Sinha\r\n, Edited by Explained Desk | Pune | \r\nUpdated: May 24, 2020 1:58:13 pm\r\nMigrant workers at GT Road in Ghaziabad (Express photo by Gajendra Yadav)While India continues to add… [+4415 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "New study cautions against HCQ, yet India presses on - Times of India",
+      "description": "The latest news and updates on the coronavirus outbreak from Times of India. An informed guide to the covid 19 outbreak, with the latest developments",
+      "url": "https://timesofindia.indiatimes.com/india/coronabytes.cms",
+      "urlToImage": "https://static.toiimg.com/photo/75936223.cms",
+      "publishedAt": "2020-05-24T08:32:06Z",
+      "content": "An observational study on nearly 100,000 Covid-19 patients spanning 671 hospitals on six continents, by far the largest yet, has raised concerns over hydroxychloroquine or chloroquine as treatment. T… [+2284 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techexplorist.com"
+      },
+      "author": "https://www.facebook.com/malewar.amit",
+      "title": "Physicists produced a giant entangled state of 15 trillion atoms - Tech Explorist",
+      "description": "In a study, ICFO, HDU and UPV researchers report the production of a giant entangled state that may help medical researchers detect extremely faint magnetic signals from the brain.",
+      "url": "https://www.techexplorist.com/giant-entangled-state-15-trillion-atoms/32491/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2020/05/glass-cell.jpg",
+      "publishedAt": "2020-05-24T08:30:06Z",
+      "content": "Quantum technologies use entanglement to outperform classical technologies, and often employ strong cooling and isolation to protect entangled entities from decoherence by random interactions. \r\nIn a… [+4205 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thehindubusinessline.com"
+      },
+      "author": "Hemani Sheth",
+      "title": "US President Trump to travel to Florida for NASA/SpaceX commercial crew flight launch: White House - BusinessLine",
+      "description": "The United States President Donald Trump will travel to Florida to attend the launch of NASA and SpaceX’s commercial crew flight into space according to the White House. “President @realDonaldTrump wi",
+      "url": "https://www.thehindubusinessline.com/news/world/us-president-trump-to-travel-to-florida-for-nasaspacex-commercial-crew-flight-launch-white-house/article31663182.ece",
+      "urlToImage": "https://www.thehindubusinessline.com/news/world/jmojgi/article31599401.ece/ALTERNATES/LANDSCAPE_615/USA-TRUMP",
+      "publishedAt": "2020-05-24T08:07:53Z",
+      "content": "The United States President Donald Trump will travel to Florida to attend the launch of NASA and SpaceXs commercial crew flight into space according to the White House. \r\nPresident @realDonaldTrump w… [+4314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtv.com"
+      },
+      "author": null,
+      "title": "Reliance Launches JioMart Online Grocery Service, Challenging Amazon, Flipkart - NDTV Profit",
+      "description": "JioMart will deliver groceries in more than 200 towns across the country",
+      "url": "https://www.ndtv.com/business/jiomart-launch-reliance-launches-jiomart-online-grocery-service-free-grocery-delivery-through-whatsapp-2234265",
+      "urlToImage": "https://c.ndtvimg.com/2020-01/0pd81q28_jio_650x400_08_January_20.jpg",
+      "publishedAt": "2020-05-24T08:07:08Z",
+      "content": "A top executive tweeted announcing the launch\r\nReliance Industries Ltd has launched an online grocery service, JioMart, the head of its grocery retail business said, in a move aimed at rivalling Amaz… [+1851 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustantimes.com"
+      },
+      "author": "Bloomberg| Posted by: Harshit Sabarwal",
+      "title": "PIA aircraft hit runway, took off again before crashing: Report - Hindustan Times",
+      "description": "State-run Pakistan International Airlines Corp.’s PK 8303 flight had a normal departure from the eastern city of Lahore. Close to landing before 2:45 p.m. local time, the pilots told passengers to fasten their seat-belts as it approached Karachi’s airport in …",
+      "url": "https://www.hindustantimes.com/world-news/pia-aircraft-hit-runway-took-off-again-before-crashing-report/story-CJKdzsJoGnB7e8LwbpK3cO.html",
+      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/05/24/Pictures/plane-crash-in-residential-area-of-karachi_aec7d6ba-9d91-11ea-92be-8e275334e660.jpg",
+      "publishedAt": "2020-05-24T08:01:00Z",
+      "content": "It was supposed to be another regular flight on one of Pakistan’s busiest domestic routes between its two biggest cities.\r\nState-run Pakistan International Airlines Corp.’s PK 8303 flight had a norma… [+6427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustantimes.com"
+      },
+      "author": "Bloomberg| Posted by: Harshit Sabarwal",
+      "title": "Politicians from 23 Nations criticise China’s plan to impose security law in Hong Kong - Hindustan Times",
+      "description": "Signatories included Hong Kong’s last colonial governor, Chris Patten, and former British foreign secretary Malcolm Rifkind, as well as five U.S. senators, and lawmakers from Europe, India, Indonesia, Malaysia, Myanmar, New Zealand, Canada and Australia, acco…",
+      "url": "https://www.hindustantimes.com/world-news/politicians-from-23-nations-criticise-china-s-plan-to-impose-security-law-in-hong-kong/story-UK6rv18AQDxDrs6qotlvqM.html",
+      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/05/24/Pictures/hong-kong-extradition-law_f036ca14-9d7f-11ea-92be-8e275334e660.jpg",
+      "publishedAt": "2020-05-24T08:01:00Z",
+      "content": "Almost 200 politicians and legislators from 23 countries issued a joint statement criticizing China’s plans to impose a sweeping national security law in Hong Kong, and warned that it could spark mor… [+8663 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "John McCann",
+      "title": "The end of the road for OnePlus McLaren phones couldn't come soon enough - TechRadar India",
+      "description": "Opinion: A missed opportunity",
+      "url": "https://www.techradar.com/news/the-end-of-the-road-for-oneplus-mclaren-phones-couldnt-come-soon-enough",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Npc8yZE4C6ywqG6B6r5iDY-1200-80.jpg",
+      "publishedAt": "2020-05-24T08:00:00Z",
+      "content": "On December 11, 2018 I made the early-morning journey across London and out to the McLaren Technology Centre. The gleaming, pristine, lakeside headquarters of the supercar manufacturer welcomed the a… [+5473 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Sri Lanka seeks USD 1.1 billion currency swap facility from India amidst depleting forex reserves - Economic Times",
+      "description": "Modi discussed the situation arising out of the COVID-19 crisis with Rajapaksa and said that India will continue to support “our close maritime neighbour” in dealing with the pandemic and its economic impact.",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/sri-lanka-seeks-usd-1-1-billion-currency-swap-facility-from-india-amidst-depleting-forex-reserves/articleshow/75938626.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-75938621,width-1070,height-580,imgsize-634453,overlay-economictimes/photo.jpg",
+      "publishedAt": "2020-05-24T07:58:10Z",
+      "content": "COLOMBO: Sri Lankan President Gotabaya Rajapaksa has requested India to provide a special USD 1.1 billion currency swap facility to boost the country's draining foreign exchange reserves in view of t… [+1993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustantimes.com"
+      },
+      "author": "hindustantimes.com | Edited by: Amit Chaturvedi",
+      "title": "‘I can apologise or you can cut off my head’: Mamata Banerjee on protests over Cyclone Amphan respo... - Hindustan Times",
+      "description": "In a few places, clashes between the police and angry protesters were also reported.",
+      "url": "https://www.hindustantimes.com/india-news/i-can-apologise-or-you-can-cut-off-my-head-mamata-banerjee-on-protest-over-cyclone-amphan-response/story-mJdbfejdgEQmS66jFQYdFP.html",
+      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/05/24/Pictures/covid19-mamata-banerjee-holds-a-meeting_3da23bbc-9d8f-11ea-92be-8e275334e660.jpg",
+      "publishedAt": "2020-05-24T07:46:00Z",
+      "content": "West Bengal Chief Minister Mamata Banerjee has urged people in areas hit by Cyclone Amphan to have patience as the administration is working tirelessly to restore water and power supply. She maded th… [+2285 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustantimes.com"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Notice to Anushka Sharma for alleged racist slur in Paatal Lok - Hindustan Times",
+      "description": "A group has filed human rights complaint against Anushka Sharma’s Paatal Lok for alleged use of racist and sexist slur.",
+      "url": "https://www.hindustantimes.com/tv/notice-to-anushka-sharma-for-alleged-racist-slur-in-paatal-lok/story-6xCyZ2U4SHC9Jhy7jkmflN.html",
+      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/05/24/Pictures/_e755ba14-9d83-11ea-92be-8e275334e660.jpg",
+      "publishedAt": "2020-05-24T07:35:51Z",
+      "content": "A complaint has been filed against Anushka Sharma’s production Paatal Lok with the National Human Right Commission (NHRC) for an alleged racial and sexist slur. Headlined by Jaideep Ahlawat, the seri… [+1926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.bgr.in"
+      },
+      "author": "Staff",
+      "title": "RedmiBook with Ryzen 4000 to sport 3 performance modes | BGR India - BGR India",
+      "description": "Xiaomi - Check out RedmiBook 16 specifications features design price in India launch AMD Ryzen 4000 CPU. Check out the latest on Xiaomi tech news.",
+      "url": "https://www.bgr.in/laptops/xiaomi-redmibook-with-amd-ryzen-4000-to-sport-three-performance-modes-893801/",
+      "urlToImage": "https://st1.bgr.in/wp-content/uploads/2020/05/Xiaomi-RedmiBook-16-AMD-Ryzen-4000-processor-performance-modes.jpg",
+      "publishedAt": "2020-05-24T07:17:16Z",
+      "content": "Redmi, the sub-brand of consumer electronics giant Xiaomi is currently gearing up to launch its much anticipated Redmi 10X series. In addition, the company also planning to launch its latest smart TV… [+2287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scroll.in"
+      },
+      "author": "Ashish Magotra",
+      "title": "Cycling Federation’s trial offer to Bihar teen who biked 1,200 km is the worst kind of insensitivity - Scroll.in",
+      "description": "By offering a trial to the Bihar teenager, the cycling federation has shown it will do anything for good PR.",
+      "url": "https://scroll.in/field/962780/cycling-federations-trial-offer-to-bihar-teen-who-cycled-1200-km-is-the-worst-kind-of-apathy",
+      "urlToImage": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/141662-hqrphhuuui-1589966502.jpeg",
+      "publishedAt": "2020-05-24T07:00:00Z",
+      "content": "It was a battle for life and death. Make it across the line, youll live. Dont and you will die. Place any individual in such a situation and they discover unknown reserves of willpower and ingenuity.… [+4914 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtv.com"
+      },
+      "author": null,
+      "title": "Bowler Bounces Ball Off Swimming Pool, Smashes Batsman On The Face. Watch - NDTVSports.com",
+      "description": "The batsman could not duck out of the way as the ball bounced off the water to hit him square on the face.",
+      "url": "https://sports.ndtv.com/cricket/bowler-bounces-ball-off-swimming-pool-smashes-batsman-on-the-face-watch-2234237",
+      "urlToImage": "https://c.ndtvimg.com/2020-05/5pcjb36g_pool-cricket-twitter_625x300_24_May_20.jpg",
+      "publishedAt": "2020-05-24T06:53:06Z",
+      "content": "In a funky video, two men can be seen playing cricket across a swimming pool. Intriguing? Well, it gets even better. The bowler chucks the ball, attempting to bounce it off the pool and succeeds in d… [+1490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenewsminute.com"
+      },
+      "author": null,
+      "title": "Inform state before allotting special trains: Kerala CM writes to Railway Minister - The News Minute",
+      "description": "Kerala Chief Minister Pinarayi Vijayan on Saturday requested the Ministry of Railways to inform the state in advance when special trains are allotted and to share the details of the passengers with it. According to the CM, a special train from Mumbai left for…",
+      "url": "https://www.thenewsminute.com/article/inform-state-allotting-special-trains-kerala-cm-writes-railway-minister-125185",
+      "urlToImage": "https://www.thenewsminute.com/sites/default/files/pinarayi-vijayan-750.jpg",
+      "publishedAt": "2020-05-24T05:48:32Z",
+      "content": "According to Pinarayi Vijayan, Kerala was not informed when a special train from Mumbai left for Thiruvananthapuram on May 22.Kerala Chief Minister Pinarayi Vijayan on Saturday requested the Ministry… [+2066 chars]"
+    }
+  ]
+}

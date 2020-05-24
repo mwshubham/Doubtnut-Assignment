@@ -1,0 +1,33 @@
+{
+  "requestId": "1010296692958735711441590120899840",
+  "data": {
+    "autoCompleteRequestString": "dhubh",
+    "focusWord": "",
+    "addressList": [
+      {
+        "id": "MMI_ADDRESS_VUJHN6",
+        "pinCode": "122102",
+        "city": "gurgaon",
+        "cityBoundaryBreached": false,
+        "pinCodeBoundaryBreached": false,
+        "addressType": "POI",
+        "addressString": "Gurgaon, Gurgaon District, Haryana, 122102",
+        "latitude": 28.4287190000001,
+        "longitude": 77.138221,
+        "errorMargin": 0
+      },
+      {
+        "id": "MMI_ADDRESS_IPHMX7",
+        "pinCode": "122505",
+        "city": "gurgaon",
+        "cityBoundaryBreached": false,
+        "pinCodeBoundaryBreached": false,
+        "addressType": "POI",
+        "addressString": "Gurgaon Farukhnagar Road, Gurgaon, Gurgaon District, Haryana, 122505",
+        "latitude": 28.4697860000001,
+        "longitude": 76.9072590000001,
+        "errorMargin": 0
+      }
+    ]
+  }
+}
